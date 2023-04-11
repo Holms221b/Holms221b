@@ -1,4 +1,4 @@
-[![Header](https://github.com/Holms221b/Holms221b/blob/main/assets/BUG.png)
+[!Header](https://github.com/Holms221b/Holms221b/blob/main/assets/BUG.png)
 
 About me
 
