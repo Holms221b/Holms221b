@@ -1,4 +1,4 @@
-![Header](https://github.com/Holms221b/Holms221b/blob/main/assets/BUG.png)
+![Header](https://github.com/Holms221b/Holms221b/blob/main/assets/BUG2.jpg)
 
 ## I'm QA Engineer
 
@@ -26,3 +26,5 @@
 - [Bug-Reports](https://github.com/Holms221b/bug-reports)
 - [Postman Collections](https://github.com/Holms221b/postman)
 - [SQL Queries](https://github.com/Holms221b/SQL)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holms221b&show_icons=true&theme=radical)
