@@ -1,4 +1,4 @@
-![Header](https://github.com/Holms221b/Holms221b/blob/main/assets/BUG2.jpg)
+![Header](https://github.com/Holms221b/Holms221b/blob/main/assets/BUG1.png)
 
 ## I'm QA Engineer
 
