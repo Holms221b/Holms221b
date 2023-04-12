@@ -23,7 +23,7 @@
 
 - [Checklists](https://github.com/Holms221b/checklist)
 - [Test-Suites](https://github.com/Holms221b/Test-Suites/test-suites)
-- [Test-Cases](https://github.com/Holms221b/Test-Suites/test-cases)
+- [Test-Cases](https://github.com/Holms221b/test-cases)
 - [Bug-Reports](https://github.com/Holms221b/bug-reports)
 - [Report](https://github.com/Holms221b/report)
 - [Postman Collections](https://github.com/Holms221b/postman)
