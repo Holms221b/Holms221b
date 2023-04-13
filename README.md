@@ -22,7 +22,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/Holms221b/checklist)
-- [Test-Suites](https://github.com/Holms221b/Test-Suites/test-suites)
+- [Test-Suites](https://github.com/Holms221b/test-suites)
 - [Test-Cases](https://github.com/Holms221b/test-cases)
 - [Bug-Reports](https://github.com/Holms221b/bug-reports)
 - [Report](https://github.com/Holms221b/report)
