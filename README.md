@@ -25,6 +25,7 @@
 - [Test-Suites](https://github.com/Holms221b/test-suites)
 - [Test-Cases](https://github.com/Holms221b/test-cases)
 - [Bug-Reports](https://github.com/Holms221b/bug-reports)
+- [Test-Plan](https://github.com/Holms221b/test-plan)
 - [Report](https://github.com/Holms221b/report)
 - [Postman Collections](https://github.com/Holms221b/postman)
 - [SQL Queries](https://github.com/Holms221b/SQL)
