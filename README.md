@@ -26,7 +26,7 @@
 - [Test-Cases](https://github.com/Holms221b/test-cases)
 - [Bug-Reports](https://github.com/Holms221b/bug-reports)
 - [Test-Plan](https://github.com/Holms221b/test-plan)
-- [Test-Plan2](https://github.com/Holms221b/test-planforUpTrader)
+- [Test-PlanforUpTrader](https://github.com/Holms221b/test-planforUpTrader)
 - [Report](https://github.com/Holms221b/report)
 - [Postman Collections](https://github.com/Holms221b/postman)
 - [SQL Queries](https://github.com/Holms221b/SQL)
